@@ -1,0 +1,10 @@
+=== EDA Summary ===
+Overall Loss Ratio: 0.35
+Highest Loss Ratio Province: Gauteng (0.43)
+
+Top 3 Vehicle Types by Average Claims:
+vehicletype
+Heavy Commercial     101.401781
+Medium Commercial     76.315030
+Passenger Vehicle     63.594898
+Name: totalclaims, dtype: float64
