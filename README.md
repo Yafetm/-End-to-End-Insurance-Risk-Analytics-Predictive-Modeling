@@ -13,10 +13,13 @@ This repository contains the code and analysis for the 10 Academy Week 3 challen
 - Implement Data Version Control (DVC) for reproducible pipelines. 
  
 ## Repository Structure 
-- `task-1/`: EDA scripts and visualizations. 
-- `data/`: Placeholder for datasets (tracked with DVC in later tasks). 
-- `reports/`: Interim and final reports. 
-- `README.md`: Project overview and instructions. 
+- `.github/workflows/`: CI/CD workflows 
+- `src/`: Python source code 
+- `notebooks/`: Jupyter notebooks for analysis 
+- `tests/`: Unit tests 
+- `scripts/`: Utility scripts 
+- `data/`: Datasets (not tracked in Git, managed with DVC in Task 2) 
+- `reports/`: Interim and final reports 
  
 ## Setup Instructions 
 1. Clone the repository: 
@@ -27,7 +30,7 @@ This repository contains the code and analysis for the 10 Academy Week 3 challen
    ```bash 
    pip install -r requirements.txt 
    ``` 
-3. Run EDA scripts in the `task-1/` folder. 
+3. Run scripts in `scripts/` or notebooks in `notebooks/`. 
  
 ## Interim Submission 
 - **Deadline**: 15 June 2025, 8:00 PM UTC 
