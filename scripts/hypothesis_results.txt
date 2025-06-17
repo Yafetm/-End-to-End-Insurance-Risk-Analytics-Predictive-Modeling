@@ -1,3 +1,4 @@
 Hypothesis Testing Results
-H1: P-value = 0.5493
-H2: P-value = 0.5493
+H1: Gauteng vs Western Cape Loss Ratio, P-value = 0.12632154992923658
+H2: Passenger vs Heavy Commercial TotalClaims, P-value = 0.12632154992923658
+H3: Male vs Female TotalPremium, P-value = 0.12632154992923658
